@@ -1,0 +1,5 @@
+{
+  "seed_value": 123,
+  "validation_split": 0.15,
+  "prediction_field_name": "prediction"
+}
